@@ -5,7 +5,7 @@
 
 ----
 
-### Results
+## Results
 * How many Vine reviews and non-Vine reviews were there?
 Vine reviews: 585
 non-Vine reviews: 61139
@@ -18,5 +18,5 @@ non-Vine reviews: 61139
 
 ----
 
-### Summary
+## Summary
 We sorted out the data with higher helpful votes and then compare pain and non-paid members for the vine program. The result should be closer to the actual situation than just use star-rating column However, we only use 5-start in the star-rating column. My suggestion would be taking 4-star rating into consideration and we can see some data from customers who actually enjoy the program as well even it is not their favorite.
