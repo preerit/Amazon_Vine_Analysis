@@ -16,7 +16,3 @@ non-Vine reviews: 61139
 * What percentage of Vine reviews were 5 stars? 36.41 %
 * What percentage of non-Vine reviews were 5 stars? 47.17%
 
-----
-
-## Summary
-We sorted out the data with higher helpful votes and then compare pain and non-paid members for the vine program. The result should be closer to the actual situation than just use star-rating column However, we only use 5-start in the star-rating column. My suggestion would be taking 4-star rating into consideration and we can see some data from customers who actually enjoy the program as well even it is not their favorite.
